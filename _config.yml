@@ -1,3 +1,4 @@
 exclude:
+  - .github
   - LICENSE
   - README.md
