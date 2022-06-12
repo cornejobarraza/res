@@ -1,3 +1,5 @@
+name: remove old artifacts
+
 on:
   workflow_run:
     workflows: ["pages-build-deployment"]
